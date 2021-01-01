@@ -13,7 +13,7 @@ It doesn't compromise your credentials, everything stays on your computer. The d
 
 ## Further Tweaks
 
-- Likewise QiFi, save the credentials to the browser's local storage. For the sake of safety, exclude the password and enforce the user to re-enter when needed.
+- Likewise QiFi, save the credentials to the browser's local storage. For the sake of safety, exclude the password and enforce the user to re-enter it to generate the barcode.
 
 ## License
 
