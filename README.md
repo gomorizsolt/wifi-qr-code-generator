@@ -11,6 +11,10 @@ It doesn't compromise your credentials, everything stays on your computer. The d
 - TailwindCSS
 - [RHT](https://react-hot-toast.com/) for that fancy notification
 
+## Further Tweaks
+
+- Likewise QiFi, save the credentials to the browser's local storage. For the sake of safety, exclude the password and enforce the user to re-enter when needed.
+
 ## License
 
 The project is available as open source under the terms of the MIT License.
